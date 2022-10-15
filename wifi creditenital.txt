@@ -1,0 +1,76 @@
+Bioenable wifi   -  Tata Tele 
+
+IP: 192.168.1.55
+
+Bioenable: Web@#123$
+
+user name-BioEnable
+
+password- J$7nO3^y5Z
+
+	
+
+Bioenable2	- Tata
+
+IP:192.168.1.1
+
+Username: admin                        
+
+customar id:  CA19005346
+
+pwd: admin (bio@54321@123)                       
+
+PWD: Bio!@#123
+
+wifi password: bio@54321@123
+
+
+
+firewall pwd - Bio@#123$
+
+
+
+9763092201 -  Camera Service Centre - Sachin Hikvision
+
+
+mg@ecabs.in
+mg2702mg
+
+
+
+
+
+Sir progress till  now,
+
+1. Created New IPv4 Policy as per Department-Wise
+2. Created Traffic Shapers Policy Department-Wise
+3. Also created Web Filtering Policy in 2 section for (Manager/TeamLead & Executives) 
+Please refer below screenshot I have highlighted 
+
+Sir please share if we can do any changes for further improvement
+
+I have created single web filtering group & added my user under it for Testing purpose. But still website is accessing 
+We have observe Web Filtering is expired in our Fortigade Firewall ( Which is used to restrict access of website )
+Whenever trying to create web filter group we are getting this Popup-message 
+
+It was working eariler untill it was going free trial of fortigate
+
+Web Filtering is paid service of FortiGuard, Now they are asking for purchase subscrpition 
+
+
+
+
+We have just created policy as per discussed, It will activate after final approval 
+
+
+ 
+
+
+
+
+
+
+
+
+
+Te mg sir ch account expired hun 14 days zhale, service band aslya mule ek pan mail yet nhi, Te sarkha check karav lagnar 
